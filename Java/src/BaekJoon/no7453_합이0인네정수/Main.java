@@ -1,4 +1,4 @@
-package java.BaekJoon.no7453_합이0인네정수;
+package BaekJoon.no7453_합이0인네정수;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

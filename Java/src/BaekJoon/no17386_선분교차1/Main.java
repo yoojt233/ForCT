@@ -1,4 +1,4 @@
-package java.BaekJoon.no17386_선분교차1;
+package BaekJoon.no17386_선분교차1;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

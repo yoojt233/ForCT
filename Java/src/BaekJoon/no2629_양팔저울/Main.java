@@ -1,4 +1,4 @@
-package java.BaekJoon.no2629_양팔저울;
+package BaekJoon.no2629_양팔저울;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

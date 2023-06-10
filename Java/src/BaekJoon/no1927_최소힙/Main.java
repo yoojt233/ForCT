@@ -1,4 +1,4 @@
-package java.BaekJoon.no1927_최소힙;
+package BaekJoon.no1927_최소힙;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

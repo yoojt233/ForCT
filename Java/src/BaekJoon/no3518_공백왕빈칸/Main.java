@@ -1,4 +1,4 @@
-package java.BaekJoon.no3518_공백왕빈칸;
+package BaekJoon.no3518_공백왕빈칸;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

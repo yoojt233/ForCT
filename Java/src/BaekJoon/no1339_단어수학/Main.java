@@ -1,4 +1,4 @@
-package java.BaekJoon.no1339_단어수학;
+package BaekJoon.no1339_단어수학;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -1,4 +1,4 @@
-package java.BaekJoon.no25194_결전의금요일;
+package BaekJoon.no25194_결전의금요일;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

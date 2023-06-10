@@ -1,4 +1,4 @@
-package java.BaekJoon.no9613_GCD합;
+package BaekJoon.no9613_GCD합;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

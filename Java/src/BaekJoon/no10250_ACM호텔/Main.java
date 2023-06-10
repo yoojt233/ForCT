@@ -1,4 +1,4 @@
-package java.BaekJoon.no10250_ACM호텔;
+package BaekJoon.no10250_ACM호텔;
 
 import java.util.Scanner;
 

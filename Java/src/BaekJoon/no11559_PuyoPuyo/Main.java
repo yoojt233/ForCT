@@ -1,4 +1,4 @@
-package java.BaekJoon.no11559_PuyoPuyo;
+package BaekJoon.no11559_PuyoPuyo;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

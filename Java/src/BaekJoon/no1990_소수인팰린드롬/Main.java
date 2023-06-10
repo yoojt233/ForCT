@@ -1,4 +1,4 @@
-package java.BaekJoon.no1990_소수인팰린드롬;
+package BaekJoon.no1990_소수인팰린드롬;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

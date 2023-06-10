@@ -1,4 +1,4 @@
-package java.BaekJoon.no13164_행복유치원;
+package BaekJoon.no13164_행복유치원;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

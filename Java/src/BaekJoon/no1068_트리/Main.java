@@ -1,4 +1,4 @@
-package java.BaekJoon.no1068_트리;
+package BaekJoon.no1068_트리;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

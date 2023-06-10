@@ -1,4 +1,4 @@
-package java.BaekJoon.no17298_오큰수;
+package BaekJoon.no17298_오큰수;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

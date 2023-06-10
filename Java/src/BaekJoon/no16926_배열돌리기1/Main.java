@@ -1,4 +1,4 @@
-package java.BaekJoon.no16926_배열돌리기1;
+package BaekJoon.no16926_배열돌리기1;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

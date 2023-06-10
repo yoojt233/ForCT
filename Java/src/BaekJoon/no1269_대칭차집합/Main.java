@@ -1,4 +1,4 @@
-package java.BaekJoon.no1269_대칭차집합;
+package BaekJoon.no1269_대칭차집합;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

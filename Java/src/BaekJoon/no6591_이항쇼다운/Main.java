@@ -1,4 +1,4 @@
-package java.BaekJoon.no6591_이항쇼다운;
+package BaekJoon.no6591_이항쇼다운;
 
 import java.io.BufferedReader;
 import java.io.IOException;

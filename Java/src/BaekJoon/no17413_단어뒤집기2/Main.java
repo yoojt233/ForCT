@@ -1,4 +1,4 @@
-package java.BaekJoon.no17413_단어뒤집기2;
+package BaekJoon.no17413_단어뒤집기2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

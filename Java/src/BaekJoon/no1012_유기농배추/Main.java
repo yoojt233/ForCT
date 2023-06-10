@@ -1,4 +1,4 @@
-package java.BaekJoon.no1012_유기농배추;
+package BaekJoon.no1012_유기농배추;
 
 import java.io.BufferedReader;
 import java.io.IOException;

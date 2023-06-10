@@ -1,4 +1,4 @@
-package java.BaekJoon.no2847_게임을만든동준이;
+package BaekJoon.no2847_게임을만든동준이;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -1,4 +1,4 @@
-package java.BaekJoon.no2615_오목;
+package BaekJoon.no2615_오목;
 
 import java.io.BufferedReader;
 import java.io.IOException;

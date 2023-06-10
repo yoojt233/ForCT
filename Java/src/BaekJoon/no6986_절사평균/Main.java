@@ -1,4 +1,4 @@
-package java.BaekJoon.no6986_절사평균;
+package BaekJoon.no6986_절사평균;
 
 import java.io.BufferedReader;
 import java.io.IOException;

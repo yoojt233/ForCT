@@ -1,4 +1,4 @@
-package java.BaekJoon.no3077_임진왜란;
+package BaekJoon.no3077_임진왜란;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

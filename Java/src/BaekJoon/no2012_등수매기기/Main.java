@@ -1,4 +1,4 @@
-package java.BaekJoon.no2012_등수매기기;
+package BaekJoon.no2012_등수매기기;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -1,4 +1,4 @@
-package java.BaekJoon.no19638_센티와마법의뿅망치;
+package BaekJoon.no19638_센티와마법의뿅망치;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

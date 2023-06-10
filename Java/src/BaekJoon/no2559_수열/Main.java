@@ -1,4 +1,4 @@
-package java.BaekJoon.no2559_수열;
+package BaekJoon.no2559_수열;
 
 import java.io.BufferedReader;
 import java.io.IOException;

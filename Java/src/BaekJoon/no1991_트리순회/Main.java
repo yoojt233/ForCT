@@ -1,4 +1,4 @@
-package java.BaekJoon.no1991_트리순회;
+package BaekJoon.no1991_트리순회;
 
 import java.io.BufferedReader;
 import java.io.IOException;

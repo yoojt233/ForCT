@@ -1,4 +1,4 @@
-package java.BaekJoon.no1769_3의배수;
+package BaekJoon.no1769_3의배수;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

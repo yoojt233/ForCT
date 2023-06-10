@@ -1,4 +1,4 @@
-package java.BaekJoon.no5014_스타트링크;
+package BaekJoon.no5014_스타트링크;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

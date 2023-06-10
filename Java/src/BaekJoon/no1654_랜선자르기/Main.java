@@ -1,4 +1,4 @@
-package java.BaekJoon.no1654_랜선자르기;
+package BaekJoon.no1654_랜선자르기;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

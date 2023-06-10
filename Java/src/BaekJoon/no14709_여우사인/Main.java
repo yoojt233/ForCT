@@ -1,4 +1,4 @@
-package java.BaekJoon.no14709_여우사인;
+package BaekJoon.no14709_여우사인;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

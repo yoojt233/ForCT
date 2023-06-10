@@ -1,4 +1,4 @@
-package java.BaekJoon.no3197_백조의호수;
+package BaekJoon.no3197_백조의호수;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

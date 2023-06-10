@@ -1,4 +1,4 @@
-package java.BaekJoon.no11067_모노톤길;
+package BaekJoon.no11067_모노톤길;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

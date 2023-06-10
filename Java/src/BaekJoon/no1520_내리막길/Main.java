@@ -1,4 +1,4 @@
-package java.BaekJoon.no1520_내리막길;
+package BaekJoon.no1520_내리막길;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

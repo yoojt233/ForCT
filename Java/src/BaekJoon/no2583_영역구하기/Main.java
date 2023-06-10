@@ -1,4 +1,4 @@
-package java.BaekJoon.no2583_영역구하기;
+package BaekJoon.no2583_영역구하기;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

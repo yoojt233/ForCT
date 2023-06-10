@@ -1,4 +1,4 @@
-package java.BaekJoon.no17406_배열돌리기4_unsolved;
+package BaekJoon.no17406_배열돌리기4_unsolved;
 
 import java.io.BufferedReader;
 import java.io.IOException;

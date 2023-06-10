@@ -1,4 +1,4 @@
-package java.BaekJoon.no1600_말이되고픈원숭이;
+package BaekJoon.no1600_말이되고픈원숭이;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

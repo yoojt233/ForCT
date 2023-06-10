@@ -1,4 +1,4 @@
-package java.BaekJoon.no14719_빗물;
+package BaekJoon.no14719_빗물;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

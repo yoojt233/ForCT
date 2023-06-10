@@ -1,4 +1,4 @@
-package java.BaekJoon.no1516_게임개발;
+package BaekJoon.no1516_게임개발;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

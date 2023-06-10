@@ -1,4 +1,4 @@
-package java.BaekJoon.no1789_수들의합;
+package BaekJoon.no1789_수들의합;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

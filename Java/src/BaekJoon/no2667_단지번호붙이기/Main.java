@@ -1,4 +1,4 @@
-package java.BaekJoon.no2667_단지번호붙이기;
+package BaekJoon.no2667_단지번호붙이기;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

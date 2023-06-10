@@ -1,4 +1,4 @@
-package java.BaekJoon.no1325_효율적인해킹;
+package BaekJoon.no1325_효율적인해킹;
 
 import java.io.BufferedReader;
 import java.io.IOException;

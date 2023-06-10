@@ -1,4 +1,4 @@
-package java.BaekJoon.no2641_다각형그리기;
+package BaekJoon.no2641_다각형그리기;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

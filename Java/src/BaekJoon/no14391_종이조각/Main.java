@@ -1,4 +1,4 @@
-package java.BaekJoon.no14391_종이조각;
+package BaekJoon.no14391_종이조각;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

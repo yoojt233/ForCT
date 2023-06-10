@@ -1,4 +1,4 @@
-package java.BaekJoon.no2477_참외밭;
+package BaekJoon.no2477_참외밭;
 
 import java.io.BufferedReader;
 import java.io.IOException;

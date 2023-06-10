@@ -1,4 +1,4 @@
-package java.BaekJoon.no3584_가장가까운공통조상;
+package BaekJoon.no3584_가장가까운공통조상;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

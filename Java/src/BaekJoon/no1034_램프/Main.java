@@ -1,4 +1,4 @@
-package java.BaekJoon.no1034_램프;
+package BaekJoon.no1034_램프;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

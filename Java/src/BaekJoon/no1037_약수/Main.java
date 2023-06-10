@@ -1,4 +1,4 @@
-package java.BaekJoon.no1037_약수;
+package BaekJoon.no1037_약수;
 
 import java.util.Arrays;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package java.BaekJoon.no6593_상범빌딩;
+package BaekJoon.no6593_상범빌딩;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

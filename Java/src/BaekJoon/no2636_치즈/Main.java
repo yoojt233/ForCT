@@ -1,4 +1,4 @@
-package java.BaekJoon.no2636_치즈;
+package BaekJoon.no2636_치즈;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

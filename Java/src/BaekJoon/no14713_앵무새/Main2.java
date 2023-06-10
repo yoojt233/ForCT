@@ -1,4 +1,4 @@
-package java.BaekJoon.no14713_앵무새;
+package BaekJoon.no14713_앵무새;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

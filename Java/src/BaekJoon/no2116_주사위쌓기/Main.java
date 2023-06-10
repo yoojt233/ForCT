@@ -1,4 +1,4 @@
-package java.BaekJoon.no2116_주사위쌓기;
+package BaekJoon.no2116_주사위쌓기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

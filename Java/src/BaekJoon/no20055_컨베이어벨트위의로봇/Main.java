@@ -1,4 +1,4 @@
-package java.BaekJoon.no20055_컨베이어벨트위의로봇;
+package BaekJoon.no20055_컨베이어벨트위의로봇;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

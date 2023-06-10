@@ -1,4 +1,4 @@
-package java.BaekJoon.no14425_문자열집합;
+package BaekJoon.no14425_문자열집합;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

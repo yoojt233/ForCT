@@ -1,4 +1,4 @@
-package java.BaekJoon.no1976_여행가자;
+package BaekJoon.no1976_여행가자;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

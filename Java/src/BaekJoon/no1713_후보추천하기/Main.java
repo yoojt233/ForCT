@@ -1,4 +1,4 @@
-package java.BaekJoon.no1713_후보추천하기;
+package BaekJoon.no1713_후보추천하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

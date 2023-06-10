@@ -1,4 +1,4 @@
-package java.BaekJoon.no9009_피보나치;
+package BaekJoon.no9009_피보나치;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

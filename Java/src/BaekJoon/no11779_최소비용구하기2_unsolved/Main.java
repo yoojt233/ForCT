@@ -1,4 +1,4 @@
-package java.BaekJoon.no11779_최소비용구하기2_unsolved;
+package BaekJoon.no11779_최소비용구하기2_unsolved;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package java.BaekJoon.no18429_근손실;
+package BaekJoon.no18429_근손실;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

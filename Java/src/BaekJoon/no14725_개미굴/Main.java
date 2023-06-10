@@ -1,4 +1,4 @@
-package java.BaekJoon.no14725_개미굴;
+package BaekJoon.no14725_개미굴;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -1,4 +1,4 @@
-package java.BaekJoon.no11000_강의실배정;
+package BaekJoon.no11000_강의실배정;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

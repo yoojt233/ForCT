@@ -1,4 +1,4 @@
-package java.BaekJoon.no1987_알파벳;
+package BaekJoon.no1987_알파벳;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package java.BaekJoon.no1327_소트게임;
+package BaekJoon.no1327_소트게임;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

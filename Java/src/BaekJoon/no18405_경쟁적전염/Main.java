@@ -1,4 +1,4 @@
-package java.BaekJoon.no18405_경쟁적전염;
+package BaekJoon.no18405_경쟁적전염;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

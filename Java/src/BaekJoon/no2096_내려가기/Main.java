@@ -1,4 +1,4 @@
-package java.BaekJoon.no2096_내려가기;
+package BaekJoon.no2096_내려가기;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

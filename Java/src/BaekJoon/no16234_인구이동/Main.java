@@ -1,4 +1,4 @@
-package java.BaekJoon.no16234_인구이동;
+package BaekJoon.no16234_인구이동;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -1,4 +1,4 @@
-package java.BaekJoon.no11053_가장긴증가하는부분수열;
+package BaekJoon.no11053_가장긴증가하는부분수열;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

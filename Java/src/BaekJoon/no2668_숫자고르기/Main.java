@@ -1,4 +1,4 @@
-package java.BaekJoon.no2668_숫자고르기;
+package BaekJoon.no2668_숫자고르기;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

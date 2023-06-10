@@ -1,4 +1,4 @@
-package java.BaekJoon.no13023_ABCDE;
+package BaekJoon.no13023_ABCDE;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

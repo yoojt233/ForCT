@@ -1,4 +1,4 @@
-package java.BaekJoon.no25195_Yesoryes;
+package BaekJoon.no25195_Yesoryes;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

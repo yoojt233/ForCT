@@ -1,4 +1,4 @@
-package java.BaekJoon.no2225_합분해;
+package BaekJoon.no2225_합분해;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

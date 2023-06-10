@@ -1,4 +1,4 @@
-package java.BaekJoon.no17136_색종이붙이기_unsolved;
+package BaekJoon.no17136_색종이붙이기_unsolved;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

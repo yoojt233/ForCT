@@ -1,4 +1,4 @@
-package java.BaekJoon.no2352_반도체설계;
+package BaekJoon.no2352_반도체설계;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

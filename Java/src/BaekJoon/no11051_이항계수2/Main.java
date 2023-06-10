@@ -1,4 +1,4 @@
-package java.BaekJoon.no11051_이항계수2;
+package BaekJoon.no11051_이항계수2;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
