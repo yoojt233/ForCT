@@ -1,4 +1,4 @@
-package java.BaekJoon.no1755_숫자놀이;
+package BaekJoon.no1755_숫자놀이;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -1,4 +1,4 @@
-package java.BaekJoon.no2628_종이자르기;
+package BaekJoon.no2628_종이자르기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

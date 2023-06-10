@@ -1,4 +1,4 @@
-package java.BaekJoon.no1032_명령프롬프트;
+package BaekJoon.no1032_명령프롬프트;
 
 import java.util.Scanner;
 

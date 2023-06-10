@@ -1,4 +1,4 @@
-package java.BaekJoon.no2565_전깃줄;
+package BaekJoon.no2565_전깃줄;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

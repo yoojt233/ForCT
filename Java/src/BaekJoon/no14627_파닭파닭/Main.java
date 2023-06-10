@@ -1,4 +1,4 @@
-package java.BaekJoon.no14627_파닭파닭;
+package BaekJoon.no14627_파닭파닭;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

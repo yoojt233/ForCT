@@ -1,4 +1,4 @@
-package java.BaekJoon.no1461_도서관;
+package BaekJoon.no1461_도서관;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

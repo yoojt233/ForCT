@@ -1,4 +1,4 @@
-package java.BaekJoon.no1449_수리공항승;
+package BaekJoon.no1449_수리공항승;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -1,4 +1,4 @@
-package java.BaekJoon.no10988_팰린드롬인지확인하기;
+package BaekJoon.no10988_팰린드롬인지확인하기;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

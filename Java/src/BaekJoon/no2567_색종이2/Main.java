@@ -1,4 +1,4 @@
-package java.BaekJoon.no2567_색종이2;
+package BaekJoon.no2567_색종이2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

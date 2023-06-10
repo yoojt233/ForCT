@@ -1,4 +1,4 @@
-package java.BaekJoon.no1022_소용돌이예쁘게출력하기;
+package BaekJoon.no1022_소용돌이예쁘게출력하기;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

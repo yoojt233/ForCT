@@ -1,4 +1,4 @@
-package java.BaekJoon.no6603_로또;
+package BaekJoon.no6603_로또;
 
 import java.io.BufferedReader;
 import java.io.IOException;

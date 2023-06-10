@@ -1,4 +1,4 @@
-package java.BaekJoon.no21608_상어초등학교;
+package BaekJoon.no21608_상어초등학교;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

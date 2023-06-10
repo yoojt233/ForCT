@@ -1,4 +1,4 @@
-package java.BaekJoon.no1956_운동;
+package BaekJoon.no1956_운동;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

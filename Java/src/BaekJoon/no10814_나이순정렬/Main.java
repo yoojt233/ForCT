@@ -1,4 +1,4 @@
-package java.BaekJoon.no10814_나이순정렬;
+package BaekJoon.no10814_나이순정렬;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

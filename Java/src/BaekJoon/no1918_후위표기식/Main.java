@@ -1,4 +1,4 @@
-package java.BaekJoon.no1918_후위표기식;
+package BaekJoon.no1918_후위표기식;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

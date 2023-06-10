@@ -1,4 +1,4 @@
-package java.BaekJoon.no1219_오민식의고민_unsolved;
+package BaekJoon.no1219_오민식의고민_unsolved;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -1,4 +1,4 @@
-package java.BaekJoon.no2548_대표자연수;
+package BaekJoon.no2548_대표자연수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

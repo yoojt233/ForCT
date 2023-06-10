@@ -1,4 +1,4 @@
-package java.BaekJoon.no20361_일우는야바위꾼;
+package BaekJoon.no20361_일우는야바위꾼;
 
 import java.io.BufferedReader;
 import java.io.IOException;

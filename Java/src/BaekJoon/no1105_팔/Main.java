@@ -1,4 +1,4 @@
-package java.BaekJoon.no1105_팔;
+package BaekJoon.no1105_팔;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

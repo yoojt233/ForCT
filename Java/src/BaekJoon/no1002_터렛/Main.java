@@ -1,4 +1,4 @@
-package java.BaekJoon.no1002_터렛;
+package BaekJoon.no1002_터렛;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

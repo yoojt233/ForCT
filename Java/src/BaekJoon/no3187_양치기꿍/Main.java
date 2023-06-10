@@ -1,4 +1,4 @@
-package java.BaekJoon.no3187_양치기꿍;
+package BaekJoon.no3187_양치기꿍;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

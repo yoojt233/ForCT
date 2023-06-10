@@ -1,4 +1,4 @@
-package java.BaekJoon.no2805_나무자르기;
+package BaekJoon.no2805_나무자르기;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

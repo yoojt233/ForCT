@@ -1,4 +1,4 @@
-package java.BaekJoon.no9084_동전;
+package BaekJoon.no9084_동전;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -1,4 +1,4 @@
-package java.BaekJoon.no14405_피카츄;
+package BaekJoon.no14405_피카츄;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

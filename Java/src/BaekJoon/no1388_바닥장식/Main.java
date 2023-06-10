@@ -1,4 +1,4 @@
-package java.BaekJoon.no1388_바닥장식;
+package BaekJoon.no1388_바닥장식;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

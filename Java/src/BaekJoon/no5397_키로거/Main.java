@@ -1,4 +1,4 @@
-package java.BaekJoon.no5397_키로거;
+package BaekJoon.no5397_키로거;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

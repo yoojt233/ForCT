@@ -1,4 +1,4 @@
-package java.BaekJoon.no1946_신입사원;
+package BaekJoon.no1946_신입사원;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

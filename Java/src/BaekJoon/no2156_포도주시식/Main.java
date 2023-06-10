@@ -1,4 +1,4 @@
-package java.BaekJoon.no2156_포도주시식;
+package BaekJoon.no2156_포도주시식;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

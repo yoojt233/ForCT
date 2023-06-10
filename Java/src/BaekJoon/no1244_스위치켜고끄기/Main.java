@@ -1,4 +1,4 @@
-package java.BaekJoon.no1244_스위치켜고끄기;
+package BaekJoon.no1244_스위치켜고끄기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

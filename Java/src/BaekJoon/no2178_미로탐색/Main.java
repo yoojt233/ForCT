@@ -1,4 +1,4 @@
-package java.BaekJoon.no2178_미로탐색;
+package BaekJoon.no2178_미로탐색;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

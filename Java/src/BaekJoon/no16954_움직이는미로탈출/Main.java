@@ -1,4 +1,4 @@
-package java.BaekJoon.no16954_움직이는미로탈출;
+package BaekJoon.no16954_움직이는미로탈출;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

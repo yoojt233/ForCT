@@ -1,4 +1,4 @@
-package java.BaekJoon.no4108_지뢰찾기;
+package BaekJoon.no4108_지뢰찾기;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -1,4 +1,4 @@
-package java.BaekJoon.no1911_흙길보수하기;
+package BaekJoon.no1911_흙길보수하기;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

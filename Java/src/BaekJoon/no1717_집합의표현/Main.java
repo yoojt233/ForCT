@@ -1,4 +1,4 @@
-package java.BaekJoon.no1717_집합의표현;
+package BaekJoon.no1717_집합의표현;
 
 import java.io.BufferedReader;
 import java.io.IOException;

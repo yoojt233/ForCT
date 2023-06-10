@@ -1,4 +1,4 @@
-package java.BaekJoon.no9020_골드바흐의추측;
+package BaekJoon.no9020_골드바흐의추측;
 
 import java.util.ArrayList;
 import java.util.List;

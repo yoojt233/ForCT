@@ -1,4 +1,4 @@
-package java.BaekJoon.no18221_교수님저는취업할래요;
+package BaekJoon.no18221_교수님저는취업할래요;
 
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;

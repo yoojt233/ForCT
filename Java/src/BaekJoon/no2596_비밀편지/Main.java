@@ -1,4 +1,4 @@
-package java.BaekJoon.no2596_비밀편지;
+package BaekJoon.no2596_비밀편지;
 
 import java.io.BufferedReader;
 import java.io.IOException;

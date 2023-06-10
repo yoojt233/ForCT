@@ -1,4 +1,4 @@
-package java.BaekJoon.no21610_마법사상어와비바라기;
+package BaekJoon.no21610_마법사상어와비바라기;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

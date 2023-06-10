@@ -1,4 +1,4 @@
-package java.BaekJoon.no1389_케빈베이컨의6단계법칙;
+package BaekJoon.no1389_케빈베이컨의6단계법칙;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

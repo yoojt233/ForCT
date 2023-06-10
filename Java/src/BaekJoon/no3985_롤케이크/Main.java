@@ -1,4 +1,4 @@
-package java.BaekJoon.no3985_롤케이크;
+package BaekJoon.no3985_롤케이크;
 
 import java.util.Scanner;
 

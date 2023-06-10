@@ -1,4 +1,4 @@
-package java.BaekJoon.no3034_앵그리창영;
+package BaekJoon.no3034_앵그리창영;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

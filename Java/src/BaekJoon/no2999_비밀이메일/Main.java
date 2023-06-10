@@ -1,4 +1,4 @@
-package java.BaekJoon.no2999_비밀이메일;
+package BaekJoon.no2999_비밀이메일;
 
 import java.io.BufferedReader;
 import java.io.IOException;

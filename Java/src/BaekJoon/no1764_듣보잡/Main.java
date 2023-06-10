@@ -1,4 +1,4 @@
-package java.BaekJoon.no1764_듣보잡;
+package BaekJoon.no1764_듣보잡;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

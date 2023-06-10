@@ -1,4 +1,4 @@
-package java.BaekJoon.no1967_트리의지름;
+package BaekJoon.no1967_트리의지름;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

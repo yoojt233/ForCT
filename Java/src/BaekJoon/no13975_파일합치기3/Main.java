@@ -1,4 +1,4 @@
-package java.BaekJoon.no13975_파일합치기3;
+package BaekJoon.no13975_파일합치기3;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

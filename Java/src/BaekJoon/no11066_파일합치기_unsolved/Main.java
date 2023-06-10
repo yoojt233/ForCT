@@ -1,4 +1,4 @@
-package java.BaekJoon.no11066_파일합치기_unsolved;
+package BaekJoon.no11066_파일합치기_unsolved;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

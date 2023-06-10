@@ -1,4 +1,4 @@
-package java.BaekJoon.no1016_제곱ㄴㄴ수;
+package BaekJoon.no1016_제곱ㄴㄴ수;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

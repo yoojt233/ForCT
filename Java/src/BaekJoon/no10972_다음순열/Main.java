@@ -1,4 +1,4 @@
-package java.BaekJoon.no10972_다음순열;
+package BaekJoon.no10972_다음순열;
 
 import java.io.BufferedReader;
 import java.io.IOException;

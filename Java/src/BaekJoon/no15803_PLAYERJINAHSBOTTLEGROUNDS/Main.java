@@ -1,4 +1,4 @@
-package java.BaekJoon.no15803_PLAYERJINAHSBOTTLEGROUNDS;
+package BaekJoon.no15803_PLAYERJINAHSBOTTLEGROUNDS;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

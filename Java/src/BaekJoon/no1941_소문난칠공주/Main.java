@@ -1,4 +1,4 @@
-package java.BaekJoon.no1941_소문난칠공주;
+package BaekJoon.no1941_소문난칠공주;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

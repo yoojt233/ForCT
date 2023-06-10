@@ -1,4 +1,4 @@
-package java.BaekJoon.no17070_파이프옮기기1;
+package BaekJoon.no17070_파이프옮기기1;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

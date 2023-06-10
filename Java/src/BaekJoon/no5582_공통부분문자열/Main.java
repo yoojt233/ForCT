@@ -1,4 +1,4 @@
-package java.BaekJoon.no5582_공통부분문자열;
+package BaekJoon.no5582_공통부분문자열;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

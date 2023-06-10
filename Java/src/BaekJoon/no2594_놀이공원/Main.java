@@ -1,4 +1,4 @@
-package java.BaekJoon.no2594_놀이공원;
+package BaekJoon.no2594_놀이공원;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

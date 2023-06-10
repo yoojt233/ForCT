@@ -1,4 +1,4 @@
-package java.BaekJoon.no10819_차이를최대로;
+package BaekJoon.no10819_차이를최대로;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package java.BaekJoon.no2470_두용액;
+package BaekJoon.no2470_두용액;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

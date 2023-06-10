@@ -1,4 +1,4 @@
-package java.BaekJoon.no14503_로봇청소기;
+package BaekJoon.no14503_로봇청소기;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

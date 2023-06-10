@@ -1,4 +1,4 @@
-package java.BaekJoon.no11052_카드구매하기;
+package BaekJoon.no11052_카드구매하기;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

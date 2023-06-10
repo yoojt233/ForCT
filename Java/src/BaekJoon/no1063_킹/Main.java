@@ -1,4 +1,4 @@
-package java.BaekJoon.no1063_킹;
+package BaekJoon.no1063_킹;
 
 import java.io.BufferedReader;
 import java.io.IOException;

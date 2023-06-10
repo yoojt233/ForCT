@@ -1,4 +1,4 @@
-package java.BaekJoon.no2011_암호코드;
+package BaekJoon.no2011_암호코드;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
