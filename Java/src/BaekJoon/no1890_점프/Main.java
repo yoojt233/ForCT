@@ -1,4 +1,4 @@
-package java.BaekJoon.no1890_점프;
+package BaekJoon.no1890_점프;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

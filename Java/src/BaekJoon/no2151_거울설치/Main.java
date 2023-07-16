@@ -1,4 +1,4 @@
-package java.BaekJoon.no2151_거울설치;
+package BaekJoon.no2151_거울설치;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -1,4 +1,4 @@
-package java.BaekJoon.no2217_로프;
+package BaekJoon.no2217_로프;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

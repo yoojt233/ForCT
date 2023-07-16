@@ -1,4 +1,4 @@
-package java.BaekJoon.no2251_물통;
+package BaekJoon.no2251_물통;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

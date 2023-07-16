@@ -1,4 +1,4 @@
-package java.BaekJoon.no2468_안전영역;
+package BaekJoon.no2468_안전영역;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -1,4 +1,4 @@
-package java.BaekJoon.no2448_별찍기11;
+package BaekJoon.no2448_별찍기11;
 
 import java.io.BufferedReader;
 import java.io.IOException;

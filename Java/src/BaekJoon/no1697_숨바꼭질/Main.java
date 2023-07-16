@@ -1,4 +1,4 @@
-package java.BaekJoon.no1697_숨바꼭질;
+package BaekJoon.no1697_숨바꼭질;
 
 import java.util.LinkedList;
 import java.util.Queue;

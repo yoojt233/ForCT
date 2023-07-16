@@ -1,4 +1,4 @@
-package java.BaekJoon.no9322_철벽보안알고리즘;
+package BaekJoon.no9322_철벽보안알고리즘;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

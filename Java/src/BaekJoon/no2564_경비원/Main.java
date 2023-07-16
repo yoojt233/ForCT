@@ -1,4 +1,4 @@
-package java.BaekJoon.no2564_경비원;
+package BaekJoon.no2564_경비원;
 
 import java.io.BufferedReader;
 import java.io.IOException;

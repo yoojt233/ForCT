@@ -1,4 +1,4 @@
-package java.BaekJoon.no10974_모든순열;
+package BaekJoon.no10974_모든순열;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

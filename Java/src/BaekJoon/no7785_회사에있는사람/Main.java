@@ -1,4 +1,4 @@
-package java.BaekJoon.no7785_회사에있는사람;
+package BaekJoon.no7785_회사에있는사람;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

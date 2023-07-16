@@ -1,4 +1,4 @@
-package java.BaekJoon.no2234_성곽;
+package BaekJoon.no2234_성곽;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

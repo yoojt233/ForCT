@@ -1,4 +1,4 @@
-package java.BaekJoon.no10835_카드게임;
+package BaekJoon.no10835_카드게임;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

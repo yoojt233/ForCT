@@ -1,4 +1,4 @@
-package java.BaekJoon.no2457_공주님의정원;
+package BaekJoon.no2457_공주님의정원;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

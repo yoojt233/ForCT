@@ -1,4 +1,4 @@
-package java.BaekJoon.no1629_곱셈;
+package BaekJoon.no1629_곱셈;
 
 import java.io.BufferedReader;
 import java.io.IOException;

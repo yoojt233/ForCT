@@ -1,4 +1,4 @@
-package java.BaekJoon.no1197_최소스패닝트리;
+package BaekJoon.no1197_최소스패닝트리;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

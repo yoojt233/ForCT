@@ -1,4 +1,4 @@
-package java.BaekJoon.no10815_숫자카드;
+package BaekJoon.no10815_숫자카드;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

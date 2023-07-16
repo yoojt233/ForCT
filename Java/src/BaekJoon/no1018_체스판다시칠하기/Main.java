@@ -1,4 +1,4 @@
-package java.BaekJoon.no1018_체스판다시칠하기;
+package BaekJoon.no1018_체스판다시칠하기;
 
 import java.util.Scanner;
 

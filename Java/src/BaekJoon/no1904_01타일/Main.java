@@ -1,4 +1,4 @@
-package java.BaekJoon.no1904_01타일;
+package BaekJoon.no1904_01타일;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

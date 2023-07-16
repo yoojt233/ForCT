@@ -1,4 +1,4 @@
-package java.BaekJoon.no19538_루머;
+package BaekJoon.no19538_루머;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

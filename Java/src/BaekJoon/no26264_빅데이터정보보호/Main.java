@@ -1,4 +1,4 @@
-package java.BaekJoon.no26264_빅데이터정보보호;
+package BaekJoon.no26264_빅데이터정보보호;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

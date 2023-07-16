@@ -1,4 +1,4 @@
-package java.BaekJoon.no2527_직사각형;
+package BaekJoon.no2527_직사각형;
 
 import java.io.BufferedReader;
 import java.io.IOException;

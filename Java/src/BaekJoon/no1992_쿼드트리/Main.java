@@ -1,4 +1,4 @@
-package java.BaekJoon.no1992_쿼드트리;
+package BaekJoon.no1992_쿼드트리;
 
 import java.io.BufferedReader;
 import java.io.IOException;

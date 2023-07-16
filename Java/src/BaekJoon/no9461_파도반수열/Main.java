@@ -1,4 +1,4 @@
-package java.BaekJoon.no9461_파도반수열;
+package BaekJoon.no9461_파도반수열;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

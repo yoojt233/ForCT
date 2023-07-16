@@ -1,4 +1,4 @@
-package java.BaekJoon.no16235_나무재테크;
+package BaekJoon.no16235_나무재테크;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -1,4 +1,4 @@
-package java.BaekJoon.no19941_햄버거분배;
+package BaekJoon.no19941_햄버거분배;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

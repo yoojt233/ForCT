@@ -1,4 +1,4 @@
-package java.BaekJoon.no2206_벽부수고이동하기;
+package BaekJoon.no2206_벽부수고이동하기;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

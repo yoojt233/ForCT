@@ -1,4 +1,4 @@
-package java.BaekJoon.no1744_수묶기;
+package BaekJoon.no1744_수묶기;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -1,4 +1,4 @@
-package java.BaekJoon.no11062_카드게임_unsolved;
+package BaekJoon.no11062_카드게임_unsolved;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

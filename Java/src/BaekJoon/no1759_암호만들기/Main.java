@@ -1,4 +1,4 @@
-package java.BaekJoon.no1759_암호만들기;
+package BaekJoon.no1759_암호만들기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

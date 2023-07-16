@@ -1,4 +1,4 @@
-package java.BaekJoon.no9095_123더하기;
+package BaekJoon.no9095_123더하기;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

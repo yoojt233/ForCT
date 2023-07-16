@@ -1,4 +1,4 @@
-package java.BaekJoon.no9184_신나는함수실행;
+package BaekJoon.no9184_신나는함수실행;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

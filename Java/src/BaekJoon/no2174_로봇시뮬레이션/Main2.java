@@ -1,4 +1,4 @@
-package java.BaekJoon.no2174_로봇시뮬레이션;
+package BaekJoon.no2174_로봇시뮬레이션;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

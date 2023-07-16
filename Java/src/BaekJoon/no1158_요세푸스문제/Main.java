@@ -1,4 +1,4 @@
-package java.BaekJoon.no1158_요세푸스문제;
+package BaekJoon.no1158_요세푸스문제;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

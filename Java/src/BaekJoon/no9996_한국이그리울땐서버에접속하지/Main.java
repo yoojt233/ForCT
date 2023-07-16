@@ -1,4 +1,4 @@
-package java.BaekJoon.no9996_한국이그리울땐서버에접속하지;
+package BaekJoon.no9996_한국이그리울땐서버에접속하지;
 
 import java.io.BufferedReader;
 import java.io.IOException;

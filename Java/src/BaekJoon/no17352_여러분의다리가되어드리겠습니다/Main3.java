@@ -1,4 +1,4 @@
-package java.BaekJoon.no17352_여러분의다리가되어드리겠습니다;
+package BaekJoon.no17352_여러분의다리가되어드리겠습니다;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

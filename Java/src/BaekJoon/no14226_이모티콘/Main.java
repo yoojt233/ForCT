@@ -1,4 +1,4 @@
-package java.BaekJoon.no14226_이모티콘;
+package BaekJoon.no14226_이모티콘;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

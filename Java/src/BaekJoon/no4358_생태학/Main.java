@@ -1,4 +1,4 @@
-package java.BaekJoon.no4358_생태학;
+package BaekJoon.no4358_생태학;
 
 import java.util.ArrayList;
 import java.util.Collections;

@@ -1,4 +1,4 @@
-package java.BaekJoon.no2659_십자카드문제;
+package BaekJoon.no2659_십자카드문제;
 
 import java.io.BufferedReader;
 import java.io.IOException;

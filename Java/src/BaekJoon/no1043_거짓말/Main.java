@@ -1,4 +1,4 @@
-package java.BaekJoon.no1043_거짓말;
+package BaekJoon.no1043_거짓말;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

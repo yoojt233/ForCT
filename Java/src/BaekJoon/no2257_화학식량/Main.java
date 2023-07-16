@@ -1,4 +1,4 @@
-package java.BaekJoon.no2257_화학식량;
+package BaekJoon.no2257_화학식량;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

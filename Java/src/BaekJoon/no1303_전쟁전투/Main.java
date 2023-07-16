@@ -1,4 +1,4 @@
-package java.BaekJoon.no1303_전쟁전투;
+package BaekJoon.no1303_전쟁전투;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

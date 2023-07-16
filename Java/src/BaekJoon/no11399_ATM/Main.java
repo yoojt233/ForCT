@@ -1,4 +1,4 @@
-package java.BaekJoon.no11399_ATM;
+package BaekJoon.no11399_ATM;
 
 import java.io.BufferedReader;
 import java.io.IOException;

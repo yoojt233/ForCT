@@ -1,4 +1,4 @@
-package java.BaekJoon.no2812_크게만들기;
+package BaekJoon.no2812_크게만들기;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

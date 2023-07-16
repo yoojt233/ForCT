@@ -1,4 +1,4 @@
-package java.BaekJoon.no14235_크리스마스선물;
+package BaekJoon.no14235_크리스마스선물;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -1,4 +1,4 @@
-package java.BaekJoon.no1735_분수합;
+package BaekJoon.no1735_분수합;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

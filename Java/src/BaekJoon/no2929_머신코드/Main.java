@@ -1,4 +1,4 @@
-package java.BaekJoon.no2929_머신코드;
+package BaekJoon.no2929_머신코드;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -1,4 +1,4 @@
-package java.BaekJoon.no6198_옥상정원꾸미기;
+package BaekJoon.no6198_옥상정원꾸미기;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

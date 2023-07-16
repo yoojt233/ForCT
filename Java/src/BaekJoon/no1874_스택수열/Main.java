@@ -1,4 +1,4 @@
-package java.BaekJoon.no1874_스택수열;
+package BaekJoon.no1874_스택수열;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -1,4 +1,4 @@
-package java.BaekJoon.no25330_SHOWMETHEDUNGEON;
+package BaekJoon.no25330_SHOWMETHEDUNGEON;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

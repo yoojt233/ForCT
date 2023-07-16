@@ -1,4 +1,4 @@
-package java.BaekJoon.no2304_창고다각형;
+package BaekJoon.no2304_창고다각형;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package java.BaekJoon.no1343_폴리오미노;
+package BaekJoon.no1343_폴리오미노;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

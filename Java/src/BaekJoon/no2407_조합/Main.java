@@ -1,4 +1,4 @@
-package java.BaekJoon.no2407_조합;
+package BaekJoon.no2407_조합;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

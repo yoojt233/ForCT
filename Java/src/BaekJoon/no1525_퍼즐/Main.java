@@ -1,4 +1,4 @@
-package java.BaekJoon.no1525_퍼즐;
+package BaekJoon.no1525_퍼즐;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

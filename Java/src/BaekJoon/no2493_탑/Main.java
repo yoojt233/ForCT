@@ -1,4 +1,4 @@
-package java.BaekJoon.no2493_탑;
+package BaekJoon.no2493_탑;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

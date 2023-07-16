@@ -1,4 +1,4 @@
-package java.BaekJoon.no15683_감시_unsolved;
+package BaekJoon.no15683_감시_unsolved;
 
 import java.io.BufferedReader;
 import java.io.IOException;

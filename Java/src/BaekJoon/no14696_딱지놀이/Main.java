@@ -1,4 +1,4 @@
-package java.BaekJoon.no14696_딱지놀이;
+package BaekJoon.no14696_딱지놀이;
 
 import java.io.BufferedReader;
 import java.io.IOException;

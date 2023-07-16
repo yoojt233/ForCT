@@ -1,4 +1,4 @@
-package java.BaekJoon.no2669_직사각형네개의합집합의면적구하기;
+package BaekJoon.no2669_직사각형네개의합집합의면적구하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

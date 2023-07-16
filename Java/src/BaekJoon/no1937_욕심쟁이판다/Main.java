@@ -1,4 +1,4 @@
-package java.BaekJoon.no1937_욕심쟁이판다;
+package BaekJoon.no1937_욕심쟁이판다;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

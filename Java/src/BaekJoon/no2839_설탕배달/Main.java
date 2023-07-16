@@ -1,4 +1,4 @@
-package java.BaekJoon.no2839_설탕배달;
+package BaekJoon.no2839_설탕배달;
 
 import java.io.BufferedReader;
 import java.io.IOException;

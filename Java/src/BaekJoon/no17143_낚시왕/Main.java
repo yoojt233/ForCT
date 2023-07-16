@@ -1,4 +1,4 @@
-package java.BaekJoon.no17143_낚시왕;
+package BaekJoon.no17143_낚시왕;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

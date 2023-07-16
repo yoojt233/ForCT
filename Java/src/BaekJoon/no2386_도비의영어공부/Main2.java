@@ -1,4 +1,4 @@
-package java.BaekJoon.no2386_도비의영어공부;
+package BaekJoon.no2386_도비의영어공부;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

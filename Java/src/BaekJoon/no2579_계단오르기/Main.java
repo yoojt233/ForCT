@@ -1,4 +1,4 @@
-package java.BaekJoon.no2579_계단오르기;
+package BaekJoon.no2579_계단오르기;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

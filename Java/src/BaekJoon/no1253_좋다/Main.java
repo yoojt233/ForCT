@@ -1,4 +1,4 @@
-package java.BaekJoon.no1253_좋다;
+package BaekJoon.no1253_좋다;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

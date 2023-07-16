@@ -1,4 +1,4 @@
-package java.BaekJoon.no16437_양구출작전;
+package BaekJoon.no16437_양구출작전;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

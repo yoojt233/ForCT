@@ -1,4 +1,4 @@
-package java.BaekJoon.no1240_노드사이의거리;
+package BaekJoon.no1240_노드사이의거리;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -1,4 +1,4 @@
-package java.BaekJoon.no1058_친구;
+package BaekJoon.no1058_친구;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

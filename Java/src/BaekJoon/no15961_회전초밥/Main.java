@@ -1,4 +1,4 @@
-package java.BaekJoon.no15961_회전초밥;
+package BaekJoon.no15961_회전초밥;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

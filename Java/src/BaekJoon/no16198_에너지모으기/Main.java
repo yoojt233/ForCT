@@ -1,4 +1,4 @@
-package java.BaekJoon.no16198_에너지모으기;
+package BaekJoon.no16198_에너지모으기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

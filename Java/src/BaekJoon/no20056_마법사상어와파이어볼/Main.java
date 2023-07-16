@@ -1,4 +1,4 @@
-package java.BaekJoon.no20056_마법사상어와파이어볼;
+package BaekJoon.no20056_마법사상어와파이어볼;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
