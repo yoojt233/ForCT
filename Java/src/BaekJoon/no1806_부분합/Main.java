@@ -1,4 +1,4 @@
-package java.BaekJoon.no1806_부분합;
+package BaekJoon.no1806_부분합;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

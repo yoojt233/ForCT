@@ -1,4 +1,4 @@
-package java.BaekJoon.no9935_문자열폭발;
+package BaekJoon.no9935_문자열폭발;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

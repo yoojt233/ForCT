@@ -1,4 +1,4 @@
-package java.BaekJoon.no2986_파스칼;
+package BaekJoon.no2986_파스칼;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

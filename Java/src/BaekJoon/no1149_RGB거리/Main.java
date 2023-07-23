@@ -1,4 +1,4 @@
-package java.BaekJoon.no1149_RGB거리;
+package BaekJoon.no1149_RGB거리;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

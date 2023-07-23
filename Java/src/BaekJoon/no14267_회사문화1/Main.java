@@ -1,4 +1,4 @@
-package java.BaekJoon.no14267_회사문화1;
+package BaekJoon.no14267_회사문화1;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

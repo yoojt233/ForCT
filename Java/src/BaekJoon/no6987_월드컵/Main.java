@@ -1,4 +1,4 @@
-package java.BaekJoon.no6987_월드컵;
+package BaekJoon.no6987_월드컵;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

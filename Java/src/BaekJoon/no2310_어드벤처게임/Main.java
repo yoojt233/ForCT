@@ -1,4 +1,4 @@
-package java.BaekJoon.no2310_어드벤처게임;
+package BaekJoon.no2310_어드벤처게임;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

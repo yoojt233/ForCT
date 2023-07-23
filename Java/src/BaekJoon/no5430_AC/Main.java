@@ -1,4 +1,4 @@
-package java.BaekJoon.no5430_AC;
+package BaekJoon.no5430_AC;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

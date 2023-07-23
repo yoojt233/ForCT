@@ -1,4 +1,4 @@
-package java.BaekJoon.no1939_중량제한_unsolved;
+package BaekJoon.no1939_중량제한_unsolved;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

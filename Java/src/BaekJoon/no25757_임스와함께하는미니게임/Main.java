@@ -1,4 +1,4 @@
-package java.BaekJoon.no25757_임스와함께하는미니게임;
+package BaekJoon.no25757_임스와함께하는미니게임;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

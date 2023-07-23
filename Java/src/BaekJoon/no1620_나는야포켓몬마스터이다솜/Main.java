@@ -1,4 +1,4 @@
-package java.BaekJoon.no1620_나는야포켓몬마스터이다솜;
+package BaekJoon.no1620_나는야포켓몬마스터이다솜;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

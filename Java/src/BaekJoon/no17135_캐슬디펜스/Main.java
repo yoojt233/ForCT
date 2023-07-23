@@ -1,4 +1,4 @@
-package java.BaekJoon.no17135_캐슬디펜스;
+package BaekJoon.no17135_캐슬디펜스;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

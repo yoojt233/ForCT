@@ -1,4 +1,4 @@
-package java.BaekJoon.no1986_체스;
+package BaekJoon.no1986_체스;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

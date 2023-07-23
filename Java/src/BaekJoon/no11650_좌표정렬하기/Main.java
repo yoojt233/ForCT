@@ -1,4 +1,4 @@
-package java.BaekJoon.no11650_좌표정렬하기;
+package BaekJoon.no11650_좌표정렬하기;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -1,4 +1,4 @@
-package java.BaekJoon.no10844_쉬운계단수;
+package BaekJoon.no10844_쉬운계단수;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

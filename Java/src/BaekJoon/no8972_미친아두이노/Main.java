@@ -1,4 +1,4 @@
-package java.BaekJoon.no8972_미친아두이노;
+package BaekJoon.no8972_미친아두이노;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

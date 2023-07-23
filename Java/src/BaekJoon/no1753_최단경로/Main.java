@@ -1,4 +1,4 @@
-package java.BaekJoon.no1753_최단경로;
+package BaekJoon.no1753_최단경로;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

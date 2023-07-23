@@ -1,4 +1,4 @@
-package java.BaekJoon.no11727_2xn타일링2;
+package BaekJoon.no11727_2xn타일링2;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

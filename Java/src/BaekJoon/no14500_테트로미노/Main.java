@@ -1,4 +1,4 @@
-package java.BaekJoon.no14500_테트로미노;
+package BaekJoon.no14500_테트로미노;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

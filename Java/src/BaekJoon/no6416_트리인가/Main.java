@@ -1,4 +1,4 @@
-package java.BaekJoon.no6416_트리인가;
+package BaekJoon.no6416_트리인가;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

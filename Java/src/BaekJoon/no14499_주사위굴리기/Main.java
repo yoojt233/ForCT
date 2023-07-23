@@ -1,4 +1,4 @@
-package java.BaekJoon.no14499_주사위굴리기;
+package BaekJoon.no14499_주사위굴리기;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

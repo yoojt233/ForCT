@@ -1,4 +1,4 @@
-package java.BaekJoon.no9019_DSLR;
+package BaekJoon.no9019_DSLR;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

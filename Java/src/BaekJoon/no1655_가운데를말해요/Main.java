@@ -1,4 +1,4 @@
-package java.BaekJoon.no1655_가운데를말해요;
+package BaekJoon.no1655_가운데를말해요;
 
 import java.io.InputStreamReader;
 import java.util.Collections;

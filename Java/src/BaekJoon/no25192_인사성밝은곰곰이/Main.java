@@ -1,4 +1,4 @@
-package java.BaekJoon.no25192_인사성밝은곰곰이;
+package BaekJoon.no25192_인사성밝은곰곰이;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

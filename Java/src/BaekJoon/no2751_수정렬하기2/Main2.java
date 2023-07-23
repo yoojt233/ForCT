@@ -1,4 +1,4 @@
-package java.BaekJoon.no2751_수정렬하기2;
+package BaekJoon.no2751_수정렬하기2;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -1,4 +1,4 @@
-package java.BaekJoon.no10173_니모를찾아서;
+package BaekJoon.no10173_니모를찾아서;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

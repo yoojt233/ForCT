@@ -1,4 +1,4 @@
-package java.BaekJoon.no1003_피보나치함수;
+package BaekJoon.no1003_피보나치함수;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

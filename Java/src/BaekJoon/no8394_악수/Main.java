@@ -1,4 +1,4 @@
-package java.BaekJoon.no8394_악수;
+package BaekJoon.no8394_악수;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

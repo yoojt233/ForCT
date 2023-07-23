@@ -1,4 +1,4 @@
-package java.BaekJoon.no16928_뱀과사다리게임;
+package BaekJoon.no16928_뱀과사다리게임;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

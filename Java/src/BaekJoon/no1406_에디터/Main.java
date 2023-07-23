@@ -1,4 +1,4 @@
-package java.BaekJoon.no1406_에디터;
+package BaekJoon.no1406_에디터;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -1,4 +1,4 @@
-package java.BaekJoon.no25193_곰곰이의식단관리;
+package BaekJoon.no25193_곰곰이의식단관리;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

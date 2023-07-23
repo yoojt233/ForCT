@@ -1,4 +1,4 @@
-package java.BaekJoon.no2138_전구와스위치;
+package BaekJoon.no2138_전구와스위치;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

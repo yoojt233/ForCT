@@ -1,4 +1,4 @@
-package java.BaekJoon.no25826_2차원배열다중업데이트단일합_unsolved;
+package BaekJoon.no25826_2차원배열다중업데이트단일합_unsolved;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

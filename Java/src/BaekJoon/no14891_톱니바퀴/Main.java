@@ -1,4 +1,4 @@
-package java.BaekJoon.no14891_톱니바퀴;
+package BaekJoon.no14891_톱니바퀴;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

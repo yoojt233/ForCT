@@ -1,4 +1,4 @@
-package java.BaekJoon.no2533_사회망서비스SNS;
+package BaekJoon.no2533_사회망서비스SNS;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

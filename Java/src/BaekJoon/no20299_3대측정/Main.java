@@ -1,4 +1,4 @@
-package java.BaekJoon.no20299_3대측정;
+package BaekJoon.no20299_3대측정;
 
 import java.io.BufferedReader;
 import java.io.IOException;

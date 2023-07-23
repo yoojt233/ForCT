@@ -1,4 +1,4 @@
-package java.BaekJoon.no1094_막대기;
+package BaekJoon.no1094_막대기;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

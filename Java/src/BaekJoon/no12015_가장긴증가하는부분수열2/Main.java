@@ -1,4 +1,4 @@
-package java.BaekJoon.no12015_가장긴증가하는부분수열2;
+package BaekJoon.no12015_가장긴증가하는부분수열2;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -1,4 +1,4 @@
-package java.BaekJoon.no18352_특정거리의도시찾기;
+package BaekJoon.no18352_특정거리의도시찾기;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

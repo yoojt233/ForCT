@@ -1,4 +1,4 @@
-package java.BaekJoon.no2186_문자판;
+package BaekJoon.no2186_문자판;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

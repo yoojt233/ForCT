@@ -1,4 +1,4 @@
-package java.BaekJoon.no3109_빵집;
+package BaekJoon.no3109_빵집;
 
 import java.io.BufferedReader;
 import java.io.IOException;

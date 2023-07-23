@@ -1,4 +1,4 @@
-package java.BaekJoon.no11404_플로이드;
+package BaekJoon.no11404_플로이드;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

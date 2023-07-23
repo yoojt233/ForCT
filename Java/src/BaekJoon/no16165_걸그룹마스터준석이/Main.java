@@ -1,4 +1,4 @@
-package java.BaekJoon.no16165_걸그룹마스터준석이;
+package BaekJoon.no16165_걸그룹마스터준석이;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

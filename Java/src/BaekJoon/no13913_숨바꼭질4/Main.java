@@ -1,4 +1,4 @@
-package java.BaekJoon.no13913_숨바꼭질4;
+package BaekJoon.no13913_숨바꼭질4;
 
 import java.io.BufferedReader;
 import java.io.IOException;

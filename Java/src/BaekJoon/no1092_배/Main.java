@@ -1,4 +1,4 @@
-package java.BaekJoon.no1092_배;
+package BaekJoon.no1092_배;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

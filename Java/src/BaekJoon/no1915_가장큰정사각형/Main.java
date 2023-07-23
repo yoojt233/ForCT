@@ -1,4 +1,4 @@
-package java.BaekJoon.no1915_가장큰정사각형;
+package BaekJoon.no1915_가장큰정사각형;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
