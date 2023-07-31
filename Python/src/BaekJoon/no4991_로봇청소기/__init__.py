@@ -11,7 +11,7 @@ flag = True
 
 def init(w, h):
     global board, dusts, flag, dist, ans
-    board, dist, dusts, ans, flag = [].[], [(0, 0)], sys.maxsize, True
+    board, dist, dusts, ans, flag = [], [], [(0, 0)], sys.maxsize, True
 
     for i in range(h):
         temp = [c for c in input().rstrip()]
