@@ -1,4 +1,4 @@
-package java.BaekJoon.no4948_베르트랑공준;
+package BaekJoon.no4948_베르트랑공준;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package java.BaekJoon.no2170_선긋기;
+package BaekJoon.no2170_선긋기;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

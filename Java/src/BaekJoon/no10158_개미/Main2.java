@@ -1,4 +1,4 @@
-package java.BaekJoon.no10158_개미;
+package BaekJoon.no10158_개미;
 
 import java.io.BufferedReader;
 import java.io.IOException;

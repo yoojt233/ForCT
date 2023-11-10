@@ -1,4 +1,4 @@
-package java.BaekJoon.no2064_IP주소_unsolved;
+package BaekJoon.no2064_IP주소_unsolved;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

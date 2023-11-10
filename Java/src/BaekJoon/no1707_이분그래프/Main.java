@@ -1,4 +1,4 @@
-package java.BaekJoon.no1707_이분그래프;
+package BaekJoon.no1707_이분그래프;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

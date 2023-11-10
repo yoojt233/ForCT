@@ -1,4 +1,4 @@
-package java.BaekJoon.no3040_백설공주와일곱난쟁이;
+package BaekJoon.no3040_백설공주와일곱난쟁이;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

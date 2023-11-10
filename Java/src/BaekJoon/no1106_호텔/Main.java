@@ -1,4 +1,4 @@
-package java.BaekJoon.no1106_호텔;
+package BaekJoon.no1106_호텔;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

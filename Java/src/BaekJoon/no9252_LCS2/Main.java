@@ -1,4 +1,4 @@
-package java.BaekJoon.no9252_LCS2;
+package BaekJoon.no9252_LCS2;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

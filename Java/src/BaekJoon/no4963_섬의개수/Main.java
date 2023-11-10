@@ -1,4 +1,4 @@
-package java.BaekJoon.no4963_섬의개수;
+package BaekJoon.no4963_섬의개수;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

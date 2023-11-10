@@ -1,4 +1,4 @@
-package java.BaekJoon.no17265_나의인생에는수학과함께;
+package BaekJoon.no17265_나의인생에는수학과함께;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

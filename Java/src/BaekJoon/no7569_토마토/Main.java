@@ -1,4 +1,4 @@
-package java.BaekJoon.no7569_토마토;
+package BaekJoon.no7569_토마토;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

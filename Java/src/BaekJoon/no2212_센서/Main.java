@@ -1,4 +1,4 @@
-package java.BaekJoon.no2212_센서;
+package BaekJoon.no2212_센서;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

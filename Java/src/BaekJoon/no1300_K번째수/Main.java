@@ -1,4 +1,4 @@
-package java.BaekJoon.no1300_K번째수;
+package BaekJoon.no1300_K번째수;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

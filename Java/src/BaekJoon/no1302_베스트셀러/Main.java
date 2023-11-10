@@ -1,4 +1,4 @@
-package java.BaekJoon.no1302_베스트셀러;
+package BaekJoon.no1302_베스트셀러;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

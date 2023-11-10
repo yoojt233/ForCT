@@ -1,4 +1,4 @@
-package java.BaekJoon.no2512_예산;
+package BaekJoon.no2512_예산;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package java.BaekJoon.no17471_게리맨더링;
+package BaekJoon.no17471_게리맨더링;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

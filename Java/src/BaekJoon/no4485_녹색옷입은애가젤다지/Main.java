@@ -1,4 +1,4 @@
-package java.BaekJoon.no4485_녹색옷입은애가젤다지;
+package BaekJoon.no4485_녹색옷입은애가젤다지;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

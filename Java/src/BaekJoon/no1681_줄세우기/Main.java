@@ -1,4 +1,4 @@
-package java.BaekJoon.no1681_줄세우기;
+package BaekJoon.no1681_줄세우기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

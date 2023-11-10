@@ -1,4 +1,4 @@
-package java.BaekJoon.no2671_잠수함식별;
+package BaekJoon.no2671_잠수함식별;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

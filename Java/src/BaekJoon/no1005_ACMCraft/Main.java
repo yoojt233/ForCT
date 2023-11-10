@@ -1,4 +1,4 @@
-package java.BaekJoon.no1005_ACMCraft;
+package BaekJoon.no1005_ACMCraft;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

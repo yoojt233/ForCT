@@ -1,4 +1,4 @@
-package java.BaekJoon.no2841_외계인의기타연주;
+package BaekJoon.no2841_외계인의기타연주;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

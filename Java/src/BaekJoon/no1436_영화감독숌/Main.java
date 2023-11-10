@@ -1,4 +1,4 @@
-package java.BaekJoon.no1436_영화감독숌;
+package BaekJoon.no1436_영화감독숌;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

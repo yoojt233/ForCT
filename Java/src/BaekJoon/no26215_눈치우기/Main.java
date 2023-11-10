@@ -1,4 +1,4 @@
-package java.BaekJoon.no26215_눈치우기;
+package BaekJoon.no26215_눈치우기;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

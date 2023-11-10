@@ -1,4 +1,4 @@
-package java.BaekJoon.no2469_사다리타기;
+package BaekJoon.no2469_사다리타기;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

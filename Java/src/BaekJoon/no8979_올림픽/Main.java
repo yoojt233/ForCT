@@ -1,4 +1,4 @@
-package java.BaekJoon.no8979_올림픽;
+package BaekJoon.no8979_올림픽;
 
 import java.io.BufferedReader;
 import java.io.IOException;

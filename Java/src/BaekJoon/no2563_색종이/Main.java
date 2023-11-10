@@ -1,4 +1,4 @@
-package java.BaekJoon.no2563_색종이;
+package BaekJoon.no2563_색종이;
 
 import java.io.BufferedReader;
 import java.io.IOException;

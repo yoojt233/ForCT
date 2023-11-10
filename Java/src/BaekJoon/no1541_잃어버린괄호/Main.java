@@ -1,4 +1,4 @@
-package java.BaekJoon.no1541_잃어버린괄호;
+package BaekJoon.no1541_잃어버린괄호;
 
 import java.io.BufferedReader;
 import java.io.IOException;

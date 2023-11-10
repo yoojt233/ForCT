@@ -1,4 +1,4 @@
-package java.BaekJoon.no16918_봄버맨;
+package BaekJoon.no16918_봄버맨;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

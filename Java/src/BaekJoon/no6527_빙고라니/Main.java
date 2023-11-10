@@ -1,4 +1,4 @@
-package java.BaekJoon.no6527_빙고라니;
+package BaekJoon.no6527_빙고라니;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -1,4 +1,4 @@
-package java.BaekJoon.no1347_미로만들기;
+package BaekJoon.no1347_미로만들기;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

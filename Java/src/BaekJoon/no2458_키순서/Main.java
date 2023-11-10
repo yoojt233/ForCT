@@ -1,4 +1,4 @@
-package java.BaekJoon.no2458_키순서;
+package BaekJoon.no2458_키순서;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

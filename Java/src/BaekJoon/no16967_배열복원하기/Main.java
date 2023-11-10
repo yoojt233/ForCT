@@ -1,4 +1,4 @@
-package java.BaekJoon.no16967_배열복원하기;
+package BaekJoon.no16967_배열복원하기;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -1,4 +1,4 @@
-package java.BaekJoon.no2164_카드2;
+package BaekJoon.no2164_카드2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

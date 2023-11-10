@@ -1,4 +1,4 @@
-package java.BaekJoon.no1309_동물원;
+package BaekJoon.no1309_동물원;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -1,4 +1,4 @@
-package java.BaekJoon.no1085_직사각형에서탈출;
+package BaekJoon.no1085_직사각형에서탈출;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

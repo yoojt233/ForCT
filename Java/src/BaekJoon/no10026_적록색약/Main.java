@@ -1,4 +1,4 @@
-package java.BaekJoon.no10026_적록색약;
+package BaekJoon.no10026_적록색약;
 
 import java.io.BufferedReader;
 import java.io.IOException;

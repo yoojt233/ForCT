@@ -1,4 +1,4 @@
-package java.BaekJoon.no2597_줄자접기;
+package BaekJoon.no2597_줄자접기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package java.BaekJoon.no2435_기상청인턴신현수;
+package BaekJoon.no2435_기상청인턴신현수;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

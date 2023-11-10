@@ -1,4 +1,4 @@
-package java.BaekJoon.no2635_수이어가기;
+package BaekJoon.no2635_수이어가기;
 
 import java.util.LinkedList;
 import java.util.List;

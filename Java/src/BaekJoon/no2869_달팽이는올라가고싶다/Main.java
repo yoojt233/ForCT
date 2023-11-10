@@ -1,4 +1,4 @@
-package java.BaekJoon.no2869_달팽이는올라가고싶다;
+package BaekJoon.no2869_달팽이는올라가고싶다;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

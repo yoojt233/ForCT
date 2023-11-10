@@ -1,4 +1,4 @@
-package java.BaekJoon.no7795_먹을것인가먹힐것인가;
+package BaekJoon.no7795_먹을것인가먹힐것인가;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

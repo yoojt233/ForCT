@@ -1,4 +1,4 @@
-package java.BaekJoon.no13398_연속합2;
+package BaekJoon.no13398_연속합2;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

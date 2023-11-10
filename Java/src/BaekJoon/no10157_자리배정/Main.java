@@ -1,4 +1,4 @@
-package java.BaekJoon.no10157_자리배정;
+package BaekJoon.no10157_자리배정;
 
 import java.io.BufferedReader;
 import java.io.IOException;

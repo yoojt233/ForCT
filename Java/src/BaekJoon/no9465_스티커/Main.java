@@ -1,4 +1,4 @@
-package java.BaekJoon.no9465_스티커;
+package BaekJoon.no9465_스티커;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

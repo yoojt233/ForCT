@@ -1,4 +1,4 @@
-package java.BaekJoon.no7562_나이트의이동;
+package BaekJoon.no7562_나이트의이동;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

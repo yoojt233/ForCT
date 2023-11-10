@@ -1,4 +1,4 @@
-package java.BaekJoon.no16398_행성연결;
+package BaekJoon.no16398_행성연결;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

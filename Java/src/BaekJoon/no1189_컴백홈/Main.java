@@ -1,4 +1,4 @@
-package java.BaekJoon.no1189_컴백홈;
+package BaekJoon.no1189_컴백홈;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

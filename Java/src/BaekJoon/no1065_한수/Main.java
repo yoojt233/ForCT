@@ -1,4 +1,4 @@
-package java.BaekJoon.no1065_한수;
+package BaekJoon.no1065_한수;
 
 import java.util.Scanner;
 

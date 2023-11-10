@@ -1,4 +1,4 @@
-package java.BaekJoon.no18442_우체국1;
+package BaekJoon.no18442_우체국1;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

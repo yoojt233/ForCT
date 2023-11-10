@@ -1,4 +1,4 @@
-package java.BaekJoon.no14938_서강그라운드;
+package BaekJoon.no14938_서강그라운드;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

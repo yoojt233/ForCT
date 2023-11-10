@@ -1,4 +1,4 @@
-package java.BaekJoon.no1958_LCS3;
+package BaekJoon.no1958_LCS3;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

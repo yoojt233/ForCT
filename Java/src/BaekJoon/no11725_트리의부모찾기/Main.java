@@ -1,4 +1,4 @@
-package java.BaekJoon.no11725_트리의부모찾기;
+package BaekJoon.no11725_트리의부모찾기;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

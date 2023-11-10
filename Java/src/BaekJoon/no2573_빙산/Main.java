@@ -1,4 +1,4 @@
-package java.BaekJoon.no2573_빙산;
+package BaekJoon.no2573_빙산;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

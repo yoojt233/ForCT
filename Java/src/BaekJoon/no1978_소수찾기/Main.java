@@ -1,4 +1,4 @@
-package java.BaekJoon.no1978_소수찾기;
+package BaekJoon.no1978_소수찾기;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

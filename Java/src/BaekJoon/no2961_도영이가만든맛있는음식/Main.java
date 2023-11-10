@@ -1,4 +1,4 @@
-package java.BaekJoon.no2961_도영이가만든맛있는음식;
+package BaekJoon.no2961_도영이가만든맛있는음식;
 
 import java.io.BufferedReader;
 import java.io.IOException;

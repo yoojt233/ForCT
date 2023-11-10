@@ -1,4 +1,4 @@
-package java.BaekJoon.no11501_주식;
+package BaekJoon.no11501_주식;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
