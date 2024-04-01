@@ -16,20 +16,14 @@ def solution(picks, minerals):
     remain_picks = sum(picks)
     temp, res = [], 0
 
-    for i in range(0, len(minerals), 5):
-        if i // 5 == remain_picks: break
-        temp.append(calc(minerals[i: i + 5]))
-
+    for i in range(remain_picks): temp.append(calc(minerals[i * 5: i * 5 + 5]))
     temp.sort(key=lambda x: (x[2], x[1]), reverse=True)
 
     for five in temp:
-        if remain_picks == 0: break
-
         for i in range(3):
             if picks[i] <= 0: continue
             picks[i] -= 1
             res += five[i]
-            remain_picks -= 1
             break
 
     return res
