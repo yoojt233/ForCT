@@ -4,6 +4,9 @@ Java/.idea/
 Java/out/
 Java/src/Programmers/test/
 Java/Java.iml
+Java/src/.idea/
+Java/src/out/
+Java/src/ForCT.iml
 Kotlin/.idea/
 Kotlin/out/
 Kotlin/src/main/kotlin/Main.kt
